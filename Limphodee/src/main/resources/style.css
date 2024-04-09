@@ -1,0 +1,13 @@
+.button {
+    -fx-background-color: #2196F3;
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-background-color: #0D47A1;
+    -fx-text-fill: white;
+}
+
+.vbox {
+    -fx-alignment: center;
+}

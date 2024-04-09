@@ -1,0 +1,22 @@
+.root {
+    -fx-background-color: #f0f0f0;
+    -fx-padding: 20px;
+}
+
+.button {
+    -fx-font-size: 16px;
+}
+
+.button:hover {
+    -fx-font-size: 18px;
+    -fx-background-color: #87CEEB;
+}
+
+.radio-button {
+    -fx-font-size: 14px;
+}
+
+.radio-button:hover {
+    -fx-font-size: 16px;
+    -fx-text-fill: blue;
+}
